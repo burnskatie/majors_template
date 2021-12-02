@@ -1,5 +1,5 @@
-Criminal Justice 1
-==================
+My Subject
+==========
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
 efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
