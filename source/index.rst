@@ -5,6 +5,15 @@ Replace this with your project title
    :maxdepth: 2
    :caption: Contents:
 
-   subject/index
-   another_subject/index
-   more_stuff/index
+   business_magt/index
+   business_magt2/index
+   computer_science/index
+   computer_information_systems/index
+   computer_information_systems2/index
+   criminal_justice1/index
+   criminal_justice2/index
+   future/index
+   gd_examples/index
+   gd_information/index
+   marketing_comm_one/index
+   marketing_comm_two/index
