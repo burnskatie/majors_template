@@ -1,4 +1,4 @@
-My Subject
+Graphic Design Major
 ==========
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
@@ -7,8 +7,8 @@ tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
 fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
 amet enim fermentum ultricies pharetra sit amet est.
 
-Subheading
-----------
+Major Overview
+--------------
 
 Cras pharetra ut felis nec
 feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
@@ -30,8 +30,8 @@ Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
 lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
 Pellentesque quis porta urna.
 
-Subheading
-----------
+Required Courses
+----------------
 
 Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
 lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
