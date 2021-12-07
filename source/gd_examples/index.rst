@@ -39,14 +39,16 @@ Posters
    :width: 300px
 
 .. |pic 2| image:: sundance_poster.jpeg
-   :width: 400px
+   :width: 300px
 
 Posters are a huge part of advertising in the graphic design industry and are a
 key skill to design. There are people who always need a poster for someone's
-event, party, volunteer opportunities, bake sale, etc. Whatever the case may be,
-poster design is a place where you are able to have fun and play around with
-different colors, but also learning the key components of coloration, typography,
-and layout when it comes to making a professional looking poster.
+event, party, volunteer opportunities, bake sale, etc.
+
+Whatever the case may be,poster design is a place where you are able to have
+fun and play around with different colors, but also learning the key components
+of coloration, typography,and layout when it comes to making a professional
+looking poster.
 
 Infographics
 ^^^^^^^^^^^^
@@ -54,10 +56,10 @@ Infographics
 |pic 3| |pic 4|
 
 .. |pic 3| image:: infographic_wedding.jpeg
-   :width: 300px
+   :width: 200px
 
 .. |pic 4| image:: infographic_sm.jpeg
-   :width: 400px
+   :width: 300px
 
 Don’t get me started on infographics…. They are one of my favorite projects to do!
 There are so many different topics you get to choose from that you believe is
