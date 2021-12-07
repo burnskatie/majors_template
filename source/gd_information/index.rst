@@ -3,6 +3,7 @@ Graphic Design Overview
 
 .. image:: simpsongd_logo.jpg
     :width: 300px
+    :align: center
 
 Graphic design can influence the way we live, work and play. The presentation
 of a design has the power to inspire, incite, unite and spark change. By
@@ -15,7 +16,8 @@ find your own artistic expression.
 Course Requirements
 -------------------
 
-**Graphic Design Major**
+**Graphic Design Major at `Simpson College`_**
+.. _Simpson College: https://simpson.edu/academics/departments/academics/graphic-design
 
 ========= ======== =========================
 Subject   Number   Description
@@ -45,8 +47,8 @@ GDSN      237      Digital Photography
 GDSN      248      Illustration
 ========= ======== ========================
 
-Potential Jobs for the Future
------------------------------
+Potential Jobs for the Future [#f1]_
+------------------------------------
 
 When it comes to the world of graphic design, there is a broad range of options
 when it comes to finding a job. Here are some examples of potential jobs in the
@@ -86,3 +88,8 @@ graphic design agency.
     * Art directors take charge of the visual style and content in magazines,
       newspapers, product packaging and movie, and television productions. They
       create designs and direct other artists to develop each contributing piece.
+
+
+.. [f1] "`What Can You Do with a Graphic Design Degree? <https://www.rasmussen.edu/
+degrees/design/blog/what-can-you-do-with-graphic-design-degree/>`_".
+    Brianna Falvin. 2020. Retrieved 2021-12-7.
