@@ -50,7 +50,7 @@ fun and play around with different colors, but also learning the key components
 of coloration, typography,and layout when it comes to making a professional
 looking poster.
 
-*This type of project would happen in GDSN 136, 236, and 336*
+*This type of project would happen in GDSN 136, 236, and 336.*
 
 
 Infographics
@@ -73,7 +73,7 @@ As you can see above, the designs correlate with the topic I chose to make sure
 it comes all together. Infographics are big in the graphic design world to get
 information out to the public and grab people's attention.
 
-*This type of project would happen in GDSN 136, 236, and 336*
+*This type of project would happen in GDSN 136, 236, and 336.*
 
 
 Illustrations
@@ -119,4 +119,4 @@ company/organization to make them stand out from other competitors. Us at graphi
 designers need to help companies show we understand their brand and how to make
 everything flow together easily in a professional way.
 
-*This type of project would happen in GDSN 136, 236, and 336*
+*This type of project would happen in GDSN 136, 236, and 336.*
