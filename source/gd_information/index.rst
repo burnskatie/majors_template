@@ -7,7 +7,7 @@ understanding and harnessing that power, you have the potential to change the
 world.
 
 You'll find a healthy balance of guided learning combined with the freedom to
-find your own artistic expression
+find your own artistic expression.
 
 Required Courses
 ----------------
@@ -15,26 +15,34 @@ Required Courses
 Graphic Design Major
 *Course Requirements*
 
-* GDSN 136: Graphic Design I
-* GDSN 236: Graphic Design II
-* GDSN 336: Graphic Design III
-* GDSN 246: Digital Design
-* GDSN 237: Digital Photography
-* CMSC 150: Intro to Programming
-* GDSN 248: Illustration
-* CIS 120: Web Development
-* COMM 101: Intro to Communications
-* GDSN 319: Graphic Design Internship
-* GDSN 385: Senior Seminar in Graphic Design
+========= ======== ========================
+Subject   Number   Description
+========= ======== ========================
+GDSN      136      Graphic Design I
+GDSN      236      Graphic Design II
+GDSN      336      Graphic Design III
+GDSN      246      Digital Design
+GDSN      237      Digital Photography
+GDSN      248      Illustration
+CMSC      150      Intro to Programming
+CIS       120      Web Development
+COMM      101      Intro to Communications
+GDSN      319      Graphic Design Internship
+GDSN      385      Senior Seminar
+========= ======== =========================
 
 Graphic Design Minor
 *Course Requirements*
 
-* GDSN 136: Graphic Design I
-* GDSN 236: Graphic Design II
-* GDSN 336: Graphic Design III
-* GDSN 237: Digital Photography
-* GDSN 248: Illustration
+========= ======== ========================
+Subject   Number   Description
+========= ======== ========================
+GDSN      136      Graphic Design I
+GDSN      236      Graphic Design II
+GDSN      336      Graphic Design III
+GDSN      237      Digital Photography
+GDSN      248      Illustration
+========= ======== =========================
 
 Potential Jobs for the Future
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
