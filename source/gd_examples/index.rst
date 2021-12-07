@@ -33,7 +33,10 @@ Examples
 Posters
 ^^^^^^^
 
-.. image:: yoga_poster.jpeg
+.. |pic 1| image:: yoga_poster.jpeg
+   :width: 300px
+
+.. |pic 2| image:: sundance_poster.jpeg
    :width: 300px
 
 
