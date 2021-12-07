@@ -34,3 +34,6 @@ Posters
 ^^^^^^^
 
 .. image:: yoga_poster.jpeg
+   :width: 300px
+
+
