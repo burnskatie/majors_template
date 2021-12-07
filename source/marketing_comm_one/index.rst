@@ -1,10 +1,10 @@
 Marketing Communications
-==========
+========================
 
 
 
 Course Requirements
-----------
+-------------------
 
 Cras pharetra ut felis nec
 feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
