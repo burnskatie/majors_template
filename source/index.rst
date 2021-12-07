@@ -1,6 +1,6 @@
 Simpson M&Ms
 ====================================
-Simpson students reviews of their Majors and Minors
+Simpson students' reviews of their Majors and Minors
 -----------------------------------------------------
 
 .. toctree::
