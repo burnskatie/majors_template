@@ -3,7 +3,6 @@ Inside look of GD
 
 Apps and Programs
 -----------------
-:ref:`myref`
 
 The classes within the graphic design department at `Simpson College <https://simpson.edu>`_.
 come in many different shapes and forms, but we are not able to accomplish these
