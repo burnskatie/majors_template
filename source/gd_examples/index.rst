@@ -25,7 +25,6 @@ when it comes to the graphic design department are, but are not limited to:
 
 Examples
 --------
-.. _myref:
 
 Here are some examples of my work from almost each course and the projects that
 will come up within some of the classes:
