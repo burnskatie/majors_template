@@ -5,10 +5,10 @@ Apps and Programs
 -----------------
 :ref:`myref`
 
-The classes within the graphic design department come in many different shapes
-and forms, but we are not able to accomplish these projects without the apps that
-come along within this major. The main apps used when it comes to the graphic
-design department are, but are not limited to:
+The classes within the graphic design department at `Simpson College <https://simpson.edu>`_.
+come in many different shapes and forms, but we are not able to accomplish these
+projects without the apps that come along within this major. The main apps used
+when it comes to the graphic design department are, but are not limited to:
 
 * Adobe Creative Cloud Apps
 
@@ -25,7 +25,7 @@ design department are, but are not limited to:
 
 Examples
 --------
-:ref:`myref`
+.. _myref:
 
 Here are some examples of my work from almost each course and the projects that
 will come up within some of the classes:
