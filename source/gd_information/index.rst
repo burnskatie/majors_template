@@ -1,6 +1,8 @@
 Graphic Design Overview
 =======================
 
+.. image:: simpsongd_logo.jpg
+
 Graphic design can influence the way we live, work and play. The presentation
 of a design has the power to inspire, incite, unite and spark change. By
 understanding and harnessing that power, you have the potential to change the
