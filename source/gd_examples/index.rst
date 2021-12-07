@@ -16,11 +16,11 @@ design department are, but are not limited to:
     * Photoshop
 
 .. note::
-Some may think knowing all these apps is a must before starting the major, but
-that is not the case at all.
+   Some may think knowing all these apps is a must before starting the major, but
+   that is not the case at all.
 
-With the help from professors at Simpson, they will
-help you every step of the way to help you understand each program.
+   With the help from professors at Simpson, they will
+   help you every step of the way to help you understand each program.
 
 
 Examples
