@@ -82,10 +82,10 @@ Illustrations
 |pic 5| |pic 6|
 
 .. |pic 5| image:: fishy.jpeg
-   :width: 250px
+   :width: 350px
 
 .. |pic 6| image:: energy_boost.jpg
-   :width: 400px
+   :width: 200px
 
 When it comes to illustrations, all I think about are cartoons. But when it comes
 to drawing and illustrations, it is really your own imagination. In GDSN 248,
