@@ -43,7 +43,7 @@ GDSN      248      Illustration
 ========= ======== ========================
 
 Potential Jobs for the Future
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 When it comes to the world of graphic design, there is a broad range of options
 when it comes to finding a job. Here are some examples of potential jobs in the
