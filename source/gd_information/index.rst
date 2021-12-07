@@ -16,7 +16,7 @@ find your own artistic expression.
 Course Requirements
 -------------------
 
-**Graphic Design Major**
+**Graphic Design Major** [#f2]_
 
 ========= ======== =========================
 Subject   Number   Description
@@ -34,7 +34,7 @@ GDSN      319      Graphic Design Internship
 GDSN      385      Senior Seminar
 ========= ======== =========================
 
-**Graphic Design Minor**
+**Graphic Design Minor** [#f2]_
 
 ========= ======== ========================
 Subject   Number   Description
@@ -92,3 +92,7 @@ graphic design agency.
 .. [#f1] "`What Can You Do with a Graphic Design Degree? <https://www.rasmussen.edu/
    degrees/design/blog/what-can-you-do-with-graphic-design-degree/>`_".
    Brianna Falvin. 2020. Retrieved 2021-12-7.
+
+.. [#f2] "`Simpson College - Graphic Design <https://simpson.edu/academics/departments/
+   academics/graphic-design/>`_".
+   Simpson College. 2020. Retrieved 2021-12-7.

@@ -1,6 +1,7 @@
 Inside look of GD
 =================
 
+.. _my-reference-apps:
 Apps and Programs
 -----------------
 
@@ -22,7 +23,7 @@ design department are, but are not limited to:
    With the help from professors at Simpson, they will
    help you every step of the way to help you understand each program.
 
-
+.. _my-reference-examples:
 Examples
 --------
 
