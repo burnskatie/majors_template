@@ -14,7 +14,7 @@ design department are, but are not limited to:
     * Illustrator
     * InDesign
     * Photoshop
-Programming Apps
+* Programming Apps
 
     * Pycharm
     * Sublime
