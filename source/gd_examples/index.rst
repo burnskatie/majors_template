@@ -33,6 +33,8 @@ Examples
 Posters
 ^^^^^^^
 
+|pic 1| any text |pic 2|
+
 .. |pic 1| image:: yoga_poster.jpeg
    :width: 300px
 
