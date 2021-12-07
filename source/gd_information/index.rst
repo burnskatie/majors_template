@@ -1,5 +1,5 @@
-Graphic Design
-==============
+Graphic Design Overview
+=======================
 
 Graphic design can influence the way we live, work and play. The presentation
 of a design has the power to inspire, incite, unite and spark change. By
