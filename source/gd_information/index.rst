@@ -68,8 +68,12 @@ Multimedia Artist or animator
 Freelancer
     * While it’s not a unique design job in its own right, but most of the job
     titles mentioned above can be performed as a freelancer. Designers who have
-    some experience on their resume, a stunning portfolio of work, or expertise in niche
-    areas of design, marketing, and graphics could build a career finding freelance projects.
+    some experience on their resume, a stunning portfolio of work, or expertise
+    in niche areas of design, marketing, and graphics could build a career finding
+    freelance projects.
+
 Art Director
-Art directors take charge of the visual style and content in magazines, newspapers, product packaging and movie, and television productions. They create designs and direct other artists to develop each contributing piece.
+    * Art directors take charge of the visual style and content in magazines,
+    newspapers, product packaging and movie, and television productions. They
+    create designs and direct other artists to develop each contributing piece.
 
