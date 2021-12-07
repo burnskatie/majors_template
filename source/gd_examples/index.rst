@@ -29,3 +29,8 @@ will come up within some of the classes:
 
 Examples
 --------
+
+Posters
+^^^^^^^
+
+.. image:: yoga_poster.jpeg
