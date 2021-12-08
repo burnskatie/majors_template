@@ -1,28 +1,31 @@
 Computer Science
 ================
 
-Write about what I think of the classes that I am taking.
+Right now I am only taking two computer science classes since it is my first
+year at Simpson. The classes I am taking are *Intro to Program* and *Web Development*.
+I definitely like *Intro to Program* the most with being able to create video games,
+but *Web Development* is also a interesting class that helps expand my knowledge in
+creating code. Down below I go into further detail on what the classes specifically
+are.
 https://simpson.edu/academics/departments/academics/departments/department-computer-science/computer-science
 
 Intro to Program CMSC-150-A
 ---------------------------
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+*Intro to Program* is one of the best classes I have taken. It involves learning
+the basics on how to code along with how to create codes. Throughout the class,
+we have learned how to create images online, how to make people move, and how
+to create video games. The final that we are working on right now is creating
+a fully functional video game. I would *100%* recommend taking this class at
+Simpson!
 
 
 Web Development CIS-120-A
 -------------------------
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+*Web Development* is a class that is specifically tailored to making websites.
+You learn how to upload your website to the internet so that anybody in the world
+can access the website at any given time. This class also has a adobe photoshop
+kind of feel with creating all different kinds of designs in the website. Creating
+the theme, color, and even the text of websites. If you are a person that likes
+to design websites, this class will be made for you!
