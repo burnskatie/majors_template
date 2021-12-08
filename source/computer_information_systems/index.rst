@@ -1,14 +1,19 @@
-My Subject
-==========
+Computer Information Systems
+============================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+Computer Information Systems is, alongside Computer Science, one of the careers
+with the most growth over the last few years. In contrast to Computer Science
+being the most theoretical side of technology and programming, Computer Information
+Systems focuses on the more applied focus on technology, usually in a business environment
 
-Subheading
-----------
+Required courses
+----------------
+(Table with course requirements for major)
+(Another table for minor)
+
+Potential jobs for the future
+-----------------------------
+(Bullet List)
 
 Cras pharetra ut felis nec
 feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
