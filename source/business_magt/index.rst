@@ -1,65 +1,55 @@
 Business Management
 ===================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+Simpson College offers a degree in Business Management.This degree has a few
+areas of concentration as well. Students can get an Entrepreneurship or Finance
+& Insurance concentration. Below is a table showing the required courses for a
+Business Management Major.
 
-Subheading
-----------
+Courses for Major
+-----------------
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+Acct 201 Introduction to Accounting
+MIS 145 Management Information Systems and Business Intelligence
+Econ 100 Principles of Economics
+Econ 339 Corporation Finance (Pre-req: ECON 100 or 101 or 102; ACCT 201; ECON
+135)
+Econ 135 Econ 135 Applied Statistics (Pre-req: One of: Math 105/105T, Math
+130/130T, Math ACT of 22 or higher, or Math SAT of 530 or higher)
+Mktg 234 Marketing (Pre-req: MAGT 131)
+Magt 131 Management Concepts
+Magt 231 Business Law and Business Ethics I (Pre-req: MAGT 131 and Sophomore
+Standing)
+Magt 232 Business Law and Business Ethics II (Pre-req: MAGT 131)
+Magt 333 Organization and Behavior (Pre-Req: MAGT 131 and Junior Standing)
+Magt 385 Senior Seminar in Strategic Management (Pre-req: MAGT 131, 333;
+MKTG 234; ECON 100, 135, 339; ACCT 201)
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+Business Management Minor
+-------------------------
 
-Subheading
-----------
+Simpson College also offers a Business Management Minor. This allows students
+to get a taste of Business Management, while also majoring in a different area.
+Some often pairings are Accounting major with Business Management minor, or
+Marketing major with Business Management minor. These two pairings help business
+students get two areas of expertise. Below are the courses required in a
+Business Management Minor.
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+Courses for Minor
+-----------------
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
+Magt 131 Management Concepts
+Magt 231 Business Law and Ethics I (Pre-req: MAGT 131 and Sophomore Standing)
+Magt 333 Organization and Behavior (Pre-Req: MAGT 131 and Junior Standing)
+Econ 100 Principles of Economics
+Acct 201 Introduction to Accounting
+Mktg 234 Marketing (Pre-req: MAGT 131)
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
+Possible Job Opportunities
+--------------------------
 
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+There are many possible jobs available with a Business Management degree. With
+courses in a variety of areas of business, graduates have a well-rounded profile
+that sets them up well for contributing in the workplace. Below is a list of
+possible job opportunities at both a low and higher up level of management.
