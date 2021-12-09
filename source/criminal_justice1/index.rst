@@ -49,41 +49,41 @@ brief job description.
 
 * Police Officer
 
-    *The job of a police officer is to maintain public
+    * The job of a police officer is to maintain public
     order and safety. They do this by pursuing, arresting,
     and interviewing suspected offenders while examining crimes
     and accidents in result of enforcing the laws.
 
-*Criminal Behavior Analyst
+* Criminal Behavior Analyst
 
-    *The job as a criminal behavior analyst is to recreate the
+    * The job as a criminal behavior analyst is to recreate the
     crime scenes with the available information to develop criminal
     behavioral profiles to use when trying to catch offenders and
     prevent crime in the future.
 
-*Probation Officer
+* Probation Officer
 
-    *The job as a probation officer is to supervise and discipline
+    * The job as a probation officer is to supervise and discipline
     the criminal offenders who are on probation as part of their sentencing.
     This could include recommending rehabilitation programs, watching their
     locations and their whereabouts or conducting drug tests.
 
-*Private Investigator/Detective
+* Private Investigator/Detective
 
-    *The job as a private investigator is to search for information and gather
+    * The job as a private investigator is to search for information and gather
     evidence for court cases and private clients. This includes interviewing people,
     verifying people’s backgrounds, finding missing people, surveillance, and just
     gathering vital facts to solve the cases.
 
-*Crime Scene Investigator
+* Crime Scene Investigator
 
-    *The job as a crime scene investigator involves using special equipment to
+    * The job as a crime scene investigator involves using special equipment to
     identify, collect, and both visually and physically examine crime scenes to gather
     evidence to solve crimes
 
-*Homicide Detective
+* Homicide Detective
 
-    *The job as a homicide detective is investing deaths that are suspicious.
+    * The job as a homicide detective is investing deaths that are suspicious.
     Then you’re responsible for collecting all of the facts and evidence pertaining
     to the homicide case and this can occur by conducting interviews, looking at crime
     scenes, etc.
