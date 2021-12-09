@@ -33,8 +33,11 @@ Criminal Justice Department Contact Information
 -----------------------------------------------
 
 Phone Number: 515-961-1584
+
 Department Chair: Carolyn Dallinger
+
 Email: carolyn.dallinger@simpson.edu
+
 Mail Address: Department of Sociology and Criminal Justice
               Wallace Hall
               701 North C Street
