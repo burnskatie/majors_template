@@ -18,4 +18,3 @@ Comm      155       Practicum
 Comm      319       Internship
 Comm      365       Senior Seminar in Marketing Communication
 =======  ========= =========================================================
-

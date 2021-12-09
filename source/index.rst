@@ -15,7 +15,7 @@ Simpson students' reviews of their Majors and Minors
    computer_information_systems2/index
    criminal_justice1/index
    criminal_justice2/index
-   gd_examples/index
    gd_information/index
+   gd_examples/index
    marketing_comm_one/index
    marketing_comm_two/index
