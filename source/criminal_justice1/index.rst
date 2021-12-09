@@ -89,8 +89,8 @@ brief job description.
     scenes, etc.
 
 .. note::
-    Even though these are careers you are able to get with a criminal justice it's
-    not just limited to these jobs. There is tons of options for everyone whether
+    Even though these are careers you are able to get with a criminal justice degree, it's
+    not just limited to these specific jobs. There is tons of options for everyone whether
     you want to sit in an office everyday doing computer work or chasing the criminals.
 
 .. [#f1] "`Simpson College - Criminal Justice <https://simpson.edu/academics/departments/academics/departments/department-sociology-criminal-justice/criminal-justice/>`_". Simpson College. 2020. Retrieved 2021-12-9.
