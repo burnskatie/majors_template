@@ -1,34 +1,31 @@
-My Subject
-==========
+Criminal Justice Overview
+=========================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+When studying criminal justice, you will learn everything from traditional
+law enforcement to today’s global security. Understanding the operation of
+the criminal justice system and the interactions between the components in
+the United States, you then are prepared for numerous careers that have to
+do with protecting the safety of others.
 
-Subheading
-----------
+Required Classes
+----------------
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+Criminal Justice Major
+*Course Requirements*
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
-
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+=======  ======  ====================================
+Subject  Number  Description
+=======  ======  ====================================
+CJ       101     Intro to Criminal Justice
+SOC      210     Statistics for the Social Sciences
+SOC      321     Methods of Social Research
+CJ       335     Inequality & Justice
+SCJ      340     Race & Ethnic Relations
+CJ       342     Juvenile Delinquency
+CJ       343     Criminology
+CJ       346     Field Experience in Criminal Justice
+SCJ      352     Standards of Professional Behavior
+=======  ======  ====================================
 
 Subheading
 ----------
