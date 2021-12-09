@@ -10,7 +10,7 @@ do with protecting the safety of others.
 Required Classes
 ----------------
 
-**Criminal Justice Major**
+*Criminal Justice Major*
 
 
 =======  ======  ====================================
@@ -27,7 +27,7 @@ CJ       346     Field Experience in Criminal Justice
 SCJ      352     Standards of Professional Behavior
 =======  ======  ====================================
 
-**Criminal Justice Minor**
+*Criminal Justice Minor*
 
 =======  ======  =========================
 Subject  Number  Description
@@ -87,3 +87,5 @@ brief job description.
     Then you’re responsible for collecting all of the facts and evidence pertaining
     to the homicide case and this can occur by conducting interviews, looking at crime
     scenes, etc.
+
+.. [#f1] "`Simpson College - Criminal Justice <https://simpson.edu/academics/departments/academics/departments/department-sociology-criminal-justice/criminal-justice/>`_". Simpson College. 2020. Retrieved 2021-12-9.
