@@ -6,13 +6,14 @@ each and every *major*! Down below I have included the list for only computer
 science requirements to graduate with a major. It may not be as long as you
 are expecting.
 
-.. figure:: computer_science.pdf
+.. figure:: Simpson.jfif
    :width: 300px
 
-   4 Year Plan [#f1]_
+   Simpson College [#f1]_
 
-Above is an image that I pulled from the Simpson website that shows how many
-classes/what credits each class gives you.
+.. note::
+   Above is an image that I pulled that shows that the Simpson logo looks like.
+   Along with the trademark colors of Simpson!
 
 Classes Required for Major
 --------------------------
@@ -54,17 +55,33 @@ CMSC            175+                 Electives (8 credits)
 Potential Future Jobs
 ---------------------
 
-https://simpson.edu/academics/departments/department-computer-science/computer-science-career-potential
+Clicking on the link will take you too Simpson's main page on all kinds of jobs
+that Simpson students have acquired recently
+"`Simpson College <https://simpson.edu/academics/departments/department-computer-science/computer-science-career-potential>`_".
 
 Simpson College is one of the best colleges in the **nation** for job placement
 in the computer science degree. Down below are some of the most recent job
 placements that Simpson graduates have been accepted too.
 
 * Program Analyst/Share Point Administrator - VA Health Care Systems
+   * A program analyst manages and evaluates a company's programs, systems, and
+     policies and gives recommendations for improvements
 * IT Application Analyst I - Principal Financial Group
+   * An applications analyst is made to support a computer application. They make
+     sure that the system administration meets all system requirements.
 * Programmer I - Farm Bureau Financial Services
+   * This is what we do in class through the Computer Science major. They create
+     code to make functions and programs work
 * Assistant Data Scientist - EMC Insurance
+   * Assistant Data Scientist analyze statistical data on large scale sets and
+     identify trends by using advance math and computer science skills
 * IT Service Coordinator - Co-op Financial Services
+   * These people are at job sites and businesses to provide advice on what the most
+     suitable IT choice is for the problem.
+
+The list goes on but they are kind of the same thing but the title makes their job
+a little different.
+
 * Salesforce Admin - Cognizant
 * IT System Engineer - Cerner Corporation
 * Systems Architect - Businessolver
@@ -78,5 +95,5 @@ placements that Simpson graduates have been accepted too.
 * Junior Business Process Engineer - Ferrilli Information Group
 
 
-.. [#f1] "`Simpson College <file:///C:/Users/breydon.paxson/Desktop/learn-arcade-work/Testing/2019%20CourseSheetRedesign_ComputerScience.pdf>`_".
+.. [#f1] "`Simpson College <https://www.indianolaiowa.gov/ImageRepository/Document?documentID=9901>`_".
    Simpson College. 2020. Retrieved 2021-12-8.
