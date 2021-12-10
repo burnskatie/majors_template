@@ -3,7 +3,10 @@ My Experience with Computer Information Systems so far
 
 I have personally really enjoyed the Computer Science and Information Systems'
 related classes on campus. They have helped me understand in a better way how
-the world of technology all around us works and how complex everything technology-related can become.
+the world of technology all around us works and how complex everything technology-related
+can become. Not only that, but also the teachers are really nice about always helping
+out and actually make you feel like you can do the assignments even though they might
+get difficult at times.
 
 
 Management Information Systems - CIS 145
