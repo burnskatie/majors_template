@@ -1,6 +1,11 @@
 Criminal Justice Overview
 =========================
 
+.. image:: maxresdefault.jpg
+    :width: 300px
+    :align: center
+
+
 When studying `criminal justice <https://simpson.edu/academics/departments/academics/departments/department-sociology-criminal-justice/criminal-justice>`_., you will learn everything from traditional
 law enforcement to today’s global security. Understanding the operation of
 the criminal justice system and the interactions between the components in
@@ -94,3 +99,4 @@ brief job description.
     you want to sit in an office everyday doing computer work or chasing the criminals.
 
 .. [#f1] "`Simpson College - Criminal Justice <https://simpson.edu/academics/departments/academics/departments/department-sociology-criminal-justice/criminal-justice/>`_". Simpson College. 2020. Retrieved 2021-12-9.
+.. [#f2] "`Simpson College - Criminal Justice Classes <https://simpson.edu/sites/default/files/2019-04/2019%20Course%20Listing_CJ.pdf>`_". Simpson College. 2020. Retrieved 2021-12-9.
