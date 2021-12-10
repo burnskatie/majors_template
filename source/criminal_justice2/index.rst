@@ -1,6 +1,11 @@
 Criminal Justice Inside
 =======================
 
+.. image:: mastersimage.jpg
+    :width: 300px
+    :align: center
+
+
 When you’re at Simpson College the criminal justice department teaches you how
 to react and judge in real-life situations. This will give you a better insight
 of the actual career allowing you to get a better understanding of what the field
