@@ -1,6 +1,11 @@
 Criminal Justice Overview
 =========================
 
+.. image:: criminaljustice.jpg
+    :width: 300px
+    :align: center
+
+
 When studying `criminal justice <https://simpson.edu/academics/departments/academics/departments/department-sociology-criminal-justice/criminal-justice>`_., you will learn everything from traditional
 law enforcement to today’s global security. Understanding the operation of
 the criminal justice system and the interactions between the components in
