@@ -5,11 +5,14 @@ Computer Information Systems is, alongside Computer Science, one of the careers
 with the most growth over the last few years. In contrast to Computer Science
 being the most theoretical side of technology and programming, Computer Information
 Systems focuses on the more applied focus on technology, usually in a more business-like environment.
+A lot of people tend to confuse Computer Science and Computer Information Systems at first,
+including myself. But once you get a better view of both fields you are able to get a better understanding of both of
+them and are able to differentiate them in an easier way.
 
 Required courses
 ----------------
 The courses below show the recommended courses to take in order to
-fulfill the Computer Information Systems major.
+fulfill the Computer Information Systems major at Simpson College.
 
 =============   ==============       ==================
 Department      Number               Description
@@ -24,7 +27,7 @@ CIS Electives   265+                 16 Credits
 CIS             385/386              Capstone Course
 =============   ==============       ==================
 
-This next table shows the requirements for the Computer Information Systems minor.
+This other table shows the requirements for the Computer Information Systems minor at Simpson College
 
 =============   ==============       ==================
 Department      Number               Description
@@ -37,16 +40,15 @@ CIS Electives   265+                 8 Credits
 
 Potential jobs for the future
 -----------------------------
-These are the most common jobs for Computer Information Systems major graduates.
+Simpson College is a great college at preparing students for Computer Science-related degrees.
+The 4 year plan offers various job opportunities after graduation for both Computer Information Systems and Computer
+Science, and some of these are listed in the web page such as:
 
-*Computer and Information Systems Manager
-
-Also called IT managers, these people's work stands on developing computer networks,
-handle technical issues, and oversee training programs. They are responsible for
-cost/benefit analysis, projecting staffing needs, and staying on top of what an industry
-needs in terms of technology.
-
-*Market Research Analyst
-
-In this work people analyze
-
+* Software Engineer
+* Database Administrator
+* Developer: Applications, Databases
+* Business Analyst
+* Programmer/Analyst
+* Systems Administrator
+* Web Developer/Programmer
+* Technical Support
