@@ -63,7 +63,7 @@ Science, and some of these are listed in the web page [#f2]_ such as:
 * Technical Support
 
 If you want more information on the Computer Information Systems field for Simpson College, click
-"`here <https://https://simpson.edu/academics/departments/academics/departments/department-computer-science/computer-information>`_"!.
+"`here <https://simpson.edu/academics/departments/academics/departments/department-computer-science/computer-information>`_"!.
 
 .. [#f1] "`Coding is fun <https://www.indianolaiowa.gov/ImageRepository/Document?documentID=9901>`_".
    Prenda. 2016. Retrieved 2021-12-9.
