@@ -7,6 +7,7 @@ Econ 250 Introduction to Business Analytics: This course will help students beco
 Mktg 234 Marketing:  In this class, students will look at things that influence existing and potential demand for goods and services and the role of marketing theory and technique in creating product and service offerings to satisfy this demand.
 Mktg 341 Digital Marketing Strategies: A survey of the processes involved in creating and implementing integrated marketing communications programs within the context of an organization's overall marketing effort.
 
+Learn more about these classes [f2]_
 I took all of my marketing and management classes with Dr. Green who is a great person but his teaching style is one that takes time to get used to. I have had a class with him every semester except my senior year. So, I have been able to get used to his style. What I recommend is
 * Read your book and other assigned reading prior to class
 * Come to class with notes already written or typed up. That way you can highlight those notes and points that he brings up in class.
@@ -15,3 +16,6 @@ I took all of my marketing and management classes with Dr. Green who is a great 
 I loved my communication classes. When I was in the middle of my freshman year when Simpson got rid of the Public Relations and introduced Marketing Communication. Therefore, there are some classes that I have taken that is no longer on the course list. One of these classes is that of Communication Research. In this class I was able to learn about the different avenues of communication research and different research tools that later helped me in my Communication Seminar in which I did individual research.
 
 Econ was interesting because I felt as though I was struggling in it and then the other economics professor was arrested then somehow I became a tutor for the other class. So, I guess I knew and understood more than I thought that I did.
+
+.. [#f2] "`Simpson College - Marketing Communication <https://simpson.edu/internal/department-multimedia-communication/>`_".
+   Simpson College. 2020. Retrieved 2021-12-13.
