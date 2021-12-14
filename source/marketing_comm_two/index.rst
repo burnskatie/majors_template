@@ -1,4 +1,4 @@
-Overview
+Overview of Marketing Communication
 ======================
 Magt 131 Management Concepts: This class will introduce the principles of management which includes: planning, organizing, staffing, leading, controlling, and strategies. This class is offered every semester therefore if you are thinking about looking at marketing or management you can try it out at any time.
 
